@@ -62,6 +62,3 @@ tic-tac-toe/
 ├── style.css
 └── script.js
 ```
-
-📧 [rohithdannana918203@gmail.com](mailto:rohithdannana918203@gmail.com)
-🌐 [GitHub: rohith156](https://github.com/rohith156)
